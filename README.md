@@ -1,4 +1,4 @@
-#Screen Recorder with Electron
+# Screen Recorder with Electron
 ### Simple screen recorder built on Electron
 ```
 
