@@ -1,5 +1,6 @@
+#Screen Recorder with Electron
+### Simple screen recorder built on Electron
 ```
-screen recorder with electron
 
 npm start to run
 
